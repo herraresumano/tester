@@ -261,8 +261,13 @@ nav .enlaces a:hover{
 .caja-servicios>h4{
   margin-bottom: var(--espacios);
 }
-
+.caja-servicios2>h4{
+  margin-bottom: var(--espacios);
+}
 .caja-servicios>p{
+  text-align: center;
+}
+.caja-servicios2>p{
   text-align: center;
 }
 
