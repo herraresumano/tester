@@ -107,13 +107,13 @@ nav{
 
 .nav1{
   background: transparent;
-  height: 80px;
+  height: 100px;
   color:#fff;
 }
 
 .nav2{
   background: var(--fondo);
-  height:80px;
+  height:100px;
   color:#000;
 }
 
@@ -144,7 +144,7 @@ nav .enlaces a:hover{
   transition: 0.6s;
 }
 
-.logo, .logo img{ height:80px;}
+.logo, .logo img{ height:90px;}
 
 .icono{
   display:none;
