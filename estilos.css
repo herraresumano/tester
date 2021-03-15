@@ -5,6 +5,7 @@
   --color4: rgb(56, 56, 56);
   --fondo: rgb(209, 209, 209);
   --titulos: 33px;
+  --titulosh4: 28px;
   --margenes: 60px;
   --espacios: 10px;
   --espacios-contenido:45px;
@@ -199,7 +200,7 @@ nav .enlaces a:hover{
 }
 
 .contenedor h4{
-  font-size: var(--titulos);
+  font-size: var(--titulosh4);
   color: var(--color2);
   margin-bottom: var(--espacios);
 }
@@ -230,17 +231,17 @@ nav .enlaces a:hover{
   width: 31%;
   box-shadow: 0 0 6px 0 rgba(0,0,0,.5);
   overflow: hidden;
-  height:400px;
+  height:300px;
 }
 
 .people{
-  height: 80%;
+  height: 30%;
 }
 
 .content-card img{
   width: 100%;
   height: 100%;
-  object-fit: cover;
+  object-fit:none;
 }
 
 .texto-team{
