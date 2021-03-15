@@ -2,6 +2,7 @@
   --color1: rgb(22, 20, 164);
   --color2: rgba(0, 1, 53, 0.877);
   --color3: rgb(255, 255, 255);
+  --color4: rgb(56, 56, 56);
   --fondo: rgb(209, 209, 209);
   --titulos: 33px;
   --margenes: 60px;
@@ -205,7 +206,7 @@ nav .enlaces a:hover{
 .contenedor p{
   font-size: var(--subtitulos);
   font-weight: 300;
-  color: var(--color1);
+  color: var(--color4);
 }
 
 .after::after{
@@ -255,7 +256,7 @@ nav .enlaces a:hover{
 
 .servicios{
   display: flex;
-  color:rgb(22, 20, 164);
+  color:rgb(185, 245, 255);
   justify-content: space-between;
   margin: auto;
   flex-wrap: wrap;
